@@ -32,6 +32,7 @@ This is a work in progress, if you find a mistake, please [file an issue][git-is
 
 
 #Boiler code
+
 // CODELAB: Update cache names any time any of the cached files change.
 const CACHE_NAME = 'static-cache-v5';
 const DATA_CACHE_NAME = 'data-cache-v2';
